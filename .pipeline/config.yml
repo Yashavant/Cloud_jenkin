@@ -1,0 +1,7 @@
+cloudFoundryDeploy:
+    deployTool: 'cf_native'
+    deployType: 'standard'
+    cloudFoundry:
+      org: '583a47datrial'
+      space: 'dev'
+      credentialsId: 'CF_CREDENTIALSID'
